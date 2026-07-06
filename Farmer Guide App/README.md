@@ -133,7 +133,7 @@ Farmer-Guide-App/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Bharatagarwal0711/ML-Projects/Farmer-Guide-App.git
+git clone https://github.com/Bharatagarwal0711/ML-Projects/
 ```
 
 ### 2. Navigate to the project
